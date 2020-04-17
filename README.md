@@ -1,3 +1,5 @@
-# P1-AnaliseRendimentoAnual
-Neste projeto foram apresentados métodos de análise de dados além de aplicados modelos diversos modelos de classificação.
-Diversas hipóteses  sobre a análise dos dados, não foram aqui apresentad apresentadas visto que, este doxumento tem como principal objetivo apresentar as técnicas utilizadas. 
+#  Analise de rendimento anual
+
+Neste projeto foram apresentados métodos de análise e exploração de dados, além de aplicados diversos modelos de classificação em machine learning.
+
+Diversas hipóteses sobre a análise dos dados, não foram aqui apresentadas/discutidas visto que, este documento tem como principal objetivo apenas apresentar as técnicas utilizadas. 
