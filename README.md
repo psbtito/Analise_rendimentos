@@ -1,4 +1,4 @@
-#  Analise de rendimento anual
+#  Análise de rendimento anual
 
 Neste projeto foram apresentados métodos de análise e exploração de dados, além de aplicados diversos modelos de classificação em machine learning.
 
